@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">theFristScreen</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="contain">Knowledge Is Endless To Learn.</string>
+</resources>
